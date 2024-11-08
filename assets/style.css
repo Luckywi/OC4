@@ -247,6 +247,23 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.gallery-item img{ 
+	max-width: 440px;
+	max-height: 440px;
+
+}
+
+.h-100{
+
+	height: auto !important;
+}
+
+
+
+.carousel-item img {
+	max-height: 850px;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
