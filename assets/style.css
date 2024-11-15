@@ -51,6 +51,7 @@ body {
 
 #about {
 	display: flex;
+    flex-direction: row-reverse;
 	background-color: #F6D2B8;
 	padding-inline: 100px;
 	padding-block: 100px;
@@ -378,6 +379,10 @@ input[type="submit"] {
 		flex-direction: column;
 		padding-inline: 0;
 	}
+
+    .carousel{
+        max-height:650px;
+    }
 
 	.top-header .nav,
 	.top-header .nav ul {
