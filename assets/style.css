@@ -272,6 +272,13 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.carousel-img {
+    width: 1920px;
+    height: 888px;
+    object-fit: cover;
+    max-height: 888px;
+    width: 100%;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
