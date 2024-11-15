@@ -115,7 +115,7 @@ body {
 
 .nav-pills .nav-link.active {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #cdbb1c;
 	border-radius: 0;
 }
 
@@ -279,6 +279,7 @@ input[type="submit"] {
     max-height: 888px;
     width: 100%;
 }
+
 
 @media all and (max-width: 1180px) {
 	.picture {
